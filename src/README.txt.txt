@@ -1,1 +1,2 @@
-Mein Name
+Mein Name ist Hase,
+ich weiß von nichts...
